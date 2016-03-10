@@ -19,7 +19,7 @@ class MoleView(object):
         # draw the black screen
         self.screen.fill(pygame.Color('black'))
         # load images
-        img = pygame.image.load('avocado.jpeg')
+        img = pygame.image.load('Avacado-Sliced.png')
         img_whacked = pygame.image.load('Guac.png')
         img_knife = pygame.image.load('knife.png')
         # make and display title
@@ -74,7 +74,7 @@ class MoleModel(object):
         self.missed = 0
         self.click = False
         self.hand = [0,0]
-        self.time_left = 10
+        self.time_left = 60
 
         # instantiates a new_hole and appends it to the self.holes list
         new_hole = MoleHole(5, 5, 40, 20)
