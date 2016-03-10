@@ -6,3 +6,5 @@ There are three main python files in this project; two in PyGame and one in Open
 Open the whack_a_mole.py and WhackAMoleOpenCV.py files in Sublime Text and run from the whack_a_mole.py file to play Guac-a-Mole! Make sure you have something blue in your hand for the OpenCV to detect and no other blue in the space around you!
 
 Open the whack_a_mole_no_cv.py file and run in Sublime Text to play the mouse controlled version of Whack-a-Mole!
+
+https://www.youtube.com/watch?v=JNsKvZo6MDs Thank you for the inspiration, Dr. Jean!
